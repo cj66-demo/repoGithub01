@@ -1,5 +1,5 @@
 public class HelloJavaWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello java world   - github 01 public");
+		System.out.println("Hello java world   - github 01 public  avec des cmd c'est mieux");
 	}
 }
